@@ -26,7 +26,7 @@ int which_kind(vector<Point2f> contours_center,vector<int> tar_more,vector<Point
 void my_rotate(int type,vector<Point2f> Points,vector<Point2f> contours_center,int form[],int p1,int p2,int p3,int p4);
 Point2f aver_center(vector<Point2f>P);
 
-float max_squareRoot=100;//最大标准差
+float max_squareRoot=1000;//最大标准差
 float up_down=2;//上下旋转的角度，上为正
 float left_right=2;//左右旋转的角度，左为正
 float center_rotate=0;//中心旋转的角度，逆时针为正
@@ -315,6 +315,7 @@ bool target_test(vector<Point2f> Points)
 
     cout<<squareRoot(dis[0],dis[1],dis[2],dis[3])<<endl;
     return true;
+
     if(squareRoot(dis[0],dis[1],dis[2],dis[3])<max_squareRoot) return true;
     else return false;
 }

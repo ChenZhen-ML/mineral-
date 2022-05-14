@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/86176/CLionProjects/task/cmake-build-debug"
+			"value" : "d:/Gitcode/gitee/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/86176/CLionProjects/task"
+			"value" : "D:/Gitcode/gitee"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1251,7 +1251,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/86176/CLionProjects/task/cmake-build-debug"
+			"value" : "D:/Gitcode/gitee/cmake-build-debug"
 		},
 		{
 			"name" : "task_IS_TOP_LEVEL",
@@ -1275,7 +1275,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/86176/CLionProjects/task"
+			"value" : "D:/Gitcode/gitee"
 		}
 	],
 	"kind" : "cache",

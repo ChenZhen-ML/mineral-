@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/86176/CLionProjects/task/cmake-build-debug",
-		"source" : "C:/Users/86176/CLionProjects/task"
+		"build" : "D:/Gitcode/gitee/cmake-build-debug",
+		"source" : "D:/Gitcode/gitee"
 	},
 	"version" : 
 	{
